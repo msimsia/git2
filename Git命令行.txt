@@ -70,6 +70,7 @@ hello
   
     https://stackoverflow.com/questions/9661059/git-pull-rebase-upstream-git-push-origin-rejects-non-fast-forward
     
+    https://www.cnblogs.com/smuxiaolei/p/7484678.html?tdsourcetag=s_pctim_aiomsg
     
     
     有时候在向服务器git push origin master的时候会出现失败的现象用
