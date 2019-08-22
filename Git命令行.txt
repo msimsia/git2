@@ -63,6 +63,10 @@ hello
 　　git remote –v 查看远程库的详细信息
 
 　　git push origin master  Git会把master分支推送到远程库对应的远程分支上
+    
+   问题解决网站：
+   
+    https://blog.csdn.net/qq_42469247/article/details/88901756
   
     https://stackoverflow.com/questions/9661059/git-pull-rebase-upstream-git-push-origin-rejects-non-fast-forward
 
