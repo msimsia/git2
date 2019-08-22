@@ -69,5 +69,14 @@ hello
     https://blog.csdn.net/qq_42469247/article/details/88901756
   
     https://stackoverflow.com/questions/9661059/git-pull-rebase-upstream-git-push-origin-rejects-non-fast-forward
+    
+    
+    
+    有时候在向服务器git push origin master的时候会出现失败的现象用
+    使用git pull --rebase origin master（拉取远程的文件把本地的覆盖，再上传）。然后再进行push
+    git rebase --abort
+    
+    
+    重点注意：Push时在master主分支上传不了文件时可以创建以给根分支
 
 分类: Git
